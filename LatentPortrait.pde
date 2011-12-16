@@ -1,3 +1,16 @@
+/*
+  Latent portrait by Matt Richardson
+  December 12, 2011
+  
+  Use Processing 1.5.1 and Keystone Library
+
+  Type C to calibrate keystoning
+  Type S to save keystone calibration
+  Type L to load keystone calibration
+  
+  Any other key starts exposure onto glow surface.
+
+*/
 import processing.video.*;
 import deadpixel.keystone.*;
 
